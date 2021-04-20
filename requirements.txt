@@ -46,7 +46,7 @@ pandas==1.0.4
 plotly==4.8.1
 pluggy==0.13.1
 polyglot==16.7.4
-py==1.8.1
+py==1.10.0
 pybase64==1.0.1
 pycld2==0.41
 PyICU==2.5
